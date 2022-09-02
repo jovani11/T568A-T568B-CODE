@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.t568a {
+  font-size: 30px;
+  margin: 30px;
+  width: auto;
+  font-family: monospace;
+  color: black
+}
+
+
+#t568a{
+  font-size: 80px;
+  color: black;
+  background-color: darkgray;
+}
+.no1 {
+  color: white;
+  font-size: 20px;
+}
+
+.wg {
+  background-color: #a5ba93;
+}
+
+.g {
+  background-color: green;
+}
+
+.wo {
+  background-color: #f2ab8d;
+}
+
+.bl {
+  background-color: blue;
+}
+
+.wbl {
+  background-color: #7d97ff;
+}
+
+.o {
+  background-color: #fa7500;
+}
+
+.wb {
+  background-color: #a85122;
+}
+
+.b {
+  background-color: #854a10;
+}
+
+/*t568b*/
+
+
+#t568b {
+  font-size: 80px;
+  background-color: darkgray;
+}
+
+.no2 {
+  height: auto;
+  
+}
